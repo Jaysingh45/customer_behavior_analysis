@@ -59,3 +59,6 @@ Sales trends
 Customer segmentation
 Purchase frequency analysis
 Revenue insights
+
+dashboard look like :-
+[alt text](https://github.com/Jaysingh45/customer_behavior_analysis/blob/main/customer_behavior_powerbi.png)
